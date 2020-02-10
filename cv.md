@@ -14,7 +14,7 @@ I have a linguistic education but I have always been curious about IT. My goal i
 * CSS basics
 * English
 
-<h2>Code examples</h2>
+<h2>Code example</h2>
 
 *function reversedString(str) {*<br>
   *let reversed = "";*<br>
